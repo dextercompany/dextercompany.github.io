@@ -29,8 +29,8 @@ h1 {
 }
 
 h2 {
-  font-size: 42px;
-  line-height: 0px;
+  font-size: 30px;
+  line-height: 45px;
   margin-top: 0px;
   color: #bcbcbc;
 }
@@ -366,12 +366,17 @@ footer {
 /*Mobile*/
 
 @media only screen and (max-width: 580px) {
+  
+  body{
+    margin-right: 50px;
+  }
+
   h1 {
     font-size: 32px;
   }
 
   h2 {
-    font-size: 28px;
+    font-size: 12px;
     line-height: inherit;
   }
 
