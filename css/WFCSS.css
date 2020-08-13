@@ -13,11 +13,6 @@ html,body {
   height: 100%;
 }
 
-
-/*---------------------------------------
-    Typorgraphy              
------------------------------------------*/
-
 h1,h2,h3,h4,h5,h6 {
   font-style: normal;
   font-weight: 300;
@@ -105,9 +100,7 @@ footer{
 
 
 
-/*---------------------------------------
-    General               
------------------------------------------*/
+
 
 html{
   -webkit-font-smoothing: antialiased;
@@ -140,9 +133,6 @@ a:hover, a:active, a:focus {
 
 
 
-/*---------------------------------------
-    Preloader section              
------------------------------------------*/
 
 .preloader {
   position: fixed;
@@ -191,11 +181,6 @@ a:hover, a:active, a:focus {
 
 
 
-
-/*---------------------------------------
-    Home section              
------------------------------------------*/
-
 #home h1 {
   padding-bottom: 18px;
 }
@@ -230,21 +215,12 @@ a:hover, a:active, a:focus {
 
 
 
-/*---------------------------------------
-   Footer section              
------------------------------------------*/
-
 footer {
     padding: 60px 0px;
     background-color: grey;
     color: white;
 }
 
-
-
-/*---------------------------------------
-   Social icon             
------------------------------------------*/
 
 .social-icon {
     position: relative;
@@ -281,10 +257,6 @@ footer {
 }
 
 
-
-/*---------------------------------------
-   Mobile Responsive         
------------------------------------------*/
 
 @media only screen and (max-width: 580px) {
   h1 {
